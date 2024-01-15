@@ -1,0 +1,62 @@
+﻿@model List<StackoverflowAssignment.Models.AskQuestionViewModel>;
+<style>
+    .img-fluid {
+        height: 90px;
+    }
+</style>
+
+<div style="background-color:aliceblue;padding:30px">
+    <h3>Learn, Share, Build!</h3>
+    <h5>Each month, over 50 million developers come to Stack Overflow to learn, share their knowledge, and build their careers.</h5>
+    <h9>Join the world's largest developer community.</h9>
+</div>
+@if (@Model.Count > 0)
+{
+    <div style="margin: 3% 5%;">
+        <div>
+            <h3>Top 10 Questions</h3>
+        </div>
+        <div>
+            <table class="table table-striped">
+                <tbody>
+
+
+                    @for (int i = 0; i < Model.Count; i++)
+                    {
+                        var questions = Model[i];
+
+                        <tr>
+
+                            <td> <span style="background-color:darkslategrey;color:white;padding:0 5px"> @questions.VoteCount</span> Votes</td>
+
+                            <td> <span style="background-color:darkslategrey;color:white;padding:0 5px"> @questions.AnswerCount</span> Answers</td>
+
+                            <td> <span style="background-color:darkslategrey;color:white;padding: 0 5px"> @questions.ViewCount</span> Views</td>
+
+                            <td> <span style="color:cornflowerblue">@questions.QuestionName</span> <br /> <span style="background-color:cornflowerblue;color:white;padding: 0 5px 5px 5px"> @questions.Category.CategoryName </span></td>
+
+                            <td><span>by</span> @questions.Name</td>
+
+                            <td><span>on</span> @questions.QuestionDateAndTime</td>
+
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
+else
+{
+    <center><h5 style="color:red;margin-top:100px">No Questions!</h5></center>
+}
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $(".clickable-row").click(function () {
+                window.location = $(this).data("href");
+            });
+        });
+    </script>
+}

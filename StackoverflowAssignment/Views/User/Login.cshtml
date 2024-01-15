@@ -1,0 +1,33 @@
+﻿@model StackoverflowAssignment.Models.AddUserViewModel
+
+@{
+
+}
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<div style="margin: 5% 30%;border:groove;border-radius:20px">
+
+    <div style="padding:50px">
+        <center style="padding-bottom:10px"><h3>Login</h3></center>
+
+        <form method="post" action="Login">
+            <div class="mb-3">
+                <label for="Email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="Email" asp-for="Email">
+               
+            </div>
+
+            <div class="mb-3">
+                <label for="Password" class="form-label"></label>
+                <input type="password" class="form-control" id="Password" asp-for="Password">
+            </div>
+            <div class="mb-3">
+                
+                <input type="checkbox" id="RememberMe" asp-for="RememberMe">
+                <label for="RememberMe" class="form-label">Remember Me</label>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>

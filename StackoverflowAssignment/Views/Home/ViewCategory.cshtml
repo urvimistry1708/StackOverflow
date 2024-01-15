@@ -1,0 +1,33 @@
+﻿@model List<StackoverflowAssignment.Models.CategoryModel>;
+<style>
+    .img-fluid {
+        height: 90px;
+    }
+</style>
+
+@if (@Model.Count > 0)
+{
+    <div style="margin: 3% 5%;">
+        <div style="padding:20px">
+            <h3>Categories</h3>
+        </div>
+        <div>
+            <table class="table table-striped">
+                <tbody>
+                    @for (int i = 0; i < Model.Count; i++)
+                    {
+                        var category = Model[i];
+                        <tr>
+                            <td>@category.CategoryName</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
+else
+{
+    <center><h5 style="color:red;margin-top:100px">No Categories!</h5></center>
+
+}

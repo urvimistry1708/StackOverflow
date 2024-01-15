@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Stackoverflow</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Shopping_Portal.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/fontawesome/css/all.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/fontawesome/css/fontawesome.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/fontawesome/css/fontawesome.min.css" asp-append-version="true" />
+    <style>
+        nav, footer {
+            background-image: linear-gradient(45deg, white, grey, black);
+            padding: 2px;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body style="padding:0;margin:0">
+
+    @using Microsoft.AspNetCore.Identity;
+    @inject SignInManager<IdentityUser> signInManager;
+    @inject UserManager<IdentityUser> userManager;
+
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Stackoverflow</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1  ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="About">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="ViewCategory">Categories</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="ViewQuestion">Question</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Question" asp-action="AskQuestion">Ask Question</a>
+                        </li>
+                    </ul>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+
+                        <div class="dropdown">
+                            <button class="btn btn dropdown-toggle" type="button" data-bs-toggle="dropdown" style="color:white" aria-expanded="false">
+
+                                @*@ViewData["User"]*@
+
+                                @User.Identity?.Name
+
+
+                            </button>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a class="dropdown-item" asp-controller="User" asp-action="Profile" asp-area=""><i class="fas fa-user"></i> Profile</a>
+                                </li>
+
+
+                                @if (User.Identity.IsAuthenticated)
+                                {
+
+                                    <li>
+                                        <a class="dropdown-item" asp-area="" asp-controller="User" asp-action="Logout"><i class="fas fa-lock"></i> Logout</a>
+                                    </li>
+                                }
+                            </ul>
+                        </div>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Cart" asp-action="Index"><span style="font-size: 1.5em; color: white;"><i class="fas fa-cart-shopping"></i></span></a>
+
+                    }
+                    else
+                    {
+
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="User" asp-action="Login" style="color: white;">Login</a>
+                            </li>
+                            <li>
+                                <a class="nav-link text-light" asp-area="" asp-controller="User" asp-action="Register" style="color: white;">Register</a>
+                            </li>
+                        </ul>
+
+                    }
+
+
+
+
+
+
+                </div>
+        </nav>
+    </header>
+    <div class="container" style="min-height: 82vh; display: flex;flex-direction: column; margin:0;padding:0">
+        <main role="main" class="pb-3" style="flex-grow: 1;width:100vw">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted" style="height:70px">
+
+        &copy; 2023 - Stackoverflow - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

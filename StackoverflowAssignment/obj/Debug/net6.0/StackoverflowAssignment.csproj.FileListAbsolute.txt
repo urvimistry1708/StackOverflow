@@ -1,0 +1,152 @@
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.csproj.AssemblyReference.cache
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.AssemblyInfoInputs.cache
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.AssemblyInfo.cs
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.csproj.CoreCompileInputs.cache
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.RazorAssemblyInfo.cache
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.RazorAssemblyInfo.cs
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\appsettings.Development.json
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\appsettings.json
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.staticwebassets.runtime.json
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.exe
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.deps.json
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.runtimeconfig.json
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.pdb
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Humanizer.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets\msbuild.StackoverflowAssignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets\msbuild.build.StackoverflowAssignment.props
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StackoverflowAssignment.props
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StackoverflowAssignment.props
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\scopedcss\bundle\StackoverflowAssignment.styles.css
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\scopedcss\projectbundle\StackoverflowAssignment.bundle.scp.css
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.csproj.CopyComplete
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\refint\StackoverflowAssignment.dll
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.pdb
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.genruntimeconfig.cache
+C:\asp\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\ref\StackoverflowAssignment.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\appsettings.Development.json
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\appsettings.json
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.staticwebassets.runtime.json
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.exe
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.deps.json
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.runtimeconfig.json
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\StackoverflowAssignment.pdb
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Humanizer.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.csproj.AssemblyReference.cache
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.AssemblyInfoInputs.cache
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.AssemblyInfo.cs
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.csproj.CoreCompileInputs.cache
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.RazorAssemblyInfo.cache
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.RazorAssemblyInfo.cs
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets\msbuild.StackoverflowAssignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets\msbuild.build.StackoverflowAssignment.props
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StackoverflowAssignment.props
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StackoverflowAssignment.props
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\scopedcss\bundle\StackoverflowAssignment.styles.css
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\scopedcss\projectbundle\StackoverflowAssignment.bundle.scp.css
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.csproj.CopyComplete
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\refint\StackoverflowAssignment.dll
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.pdb
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\StackoverflowAssignment.genruntimeconfig.cache
+C:\ITSHumber\Sem3\ITE-5331 Web App. Dev using ASP.NET MVC\StackoverFlow\StackoverflowAssignment\StackoverflowAssignment\StackoverflowAssignment\obj\Debug\net6.0\ref\StackoverflowAssignment.dll

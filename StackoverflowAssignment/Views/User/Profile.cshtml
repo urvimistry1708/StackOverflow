@@ -1,0 +1,40 @@
+﻿@model StackoverflowAssignment.Models.AddUserViewModel
+
+@{
+
+}
+
+<div style="margin: 5% 20%;border:groove;border-radius:20px">
+
+    <div style="padding:50px">
+        <center style="padding-bottom:10px"><h3>Your Profile</h3></center>
+        <div class="mb-3">
+
+            <form method="post" action="UpdateProfile">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="Name" value="@Model.Name" asp-for="Name">
+                </div>
+
+                <div class="mb-3">
+                    <label for="Email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="Email" value="@Model.Email" asp-for="Email">
+
+                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+
+                </div>
+
+                             
+
+                <div class="mb-3">
+                    <label for="Contact" class="form-label">Contact</label>
+                    <input type="text" class="form-control" id="Contact" value="@Model.Contact" asp-for="Contact">
+                </div>
+
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

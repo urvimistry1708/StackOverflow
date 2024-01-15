@@ -1,0 +1,78 @@
+﻿@model StackoverflowAssignment.Models.AskQuestionViewModel
+<div style="margin: 3% 5%;">
+<table>
+    <tbody>
+        <tr>
+            <td><h2>@Model.QuestionName</h2></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><span style="background-color:cornflowerblue;color:white;padding: 0 5px 5px 5px"> @Model.CategoryName </span></td>
+            <td><span style="background-color:cornflowerblue;color:white;padding: 0 5px 5px 5px"> by @Model.Name </span></td>
+            <td><span style="color:mediumseagreen;padding: 0 5px 5px 5px"> on @Model.QuestionDateAndTime </span></td>
+            <td><span style="background-color:mediumseagreen;color:white;padding: 0 5px 5px 5px; border-radius:5px"> @Model.ViewCount </span> &nbsp;Views</td>
+        </tr>
+
+    </tbody>
+</table>
+
+<div style="margin: 5% 0;">
+
+    <div style="padding:50px 0">
+        @if (Model.AnswerText != null)
+        {
+            <table>
+                <tr>
+                    <td width="70%"><h3>Give Your Answer</h3></td>
+                    <td width="10%">by you</td>
+                    <td>on <span>@Model.AnswerDateAndTime</span></td>
+
+                </tr>
+            </table>
+        }
+        else
+        {
+            <h3>Give Your Answer</h3>
+        }
+
+
+        @if (Model.AnswerText == null)
+        {
+            <form method="post" action="AddAnswer">
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <div class="mb-3">
+                    <input type="text" placeholder="Enter Answer"
+                       style="min-height: 60px; height: 60px; max-height: 90px; width: 60vw;"
+                       class="form-control h-75" id="AnswerText" asp-for="AnswerText">
+                </div>
+                <input type="hidden" asp-for="QuestionId" id="QuestionId" />
+                <button type="submit" class="btn btn-primary">
+                    Add
+                </button>
+            </form>
+        }
+        else
+        {
+            <form method="post" action="/Question/EditAnswer">
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <div class="mb-3">
+                    <input type="text" placeholder="Enter Answer"
+                       style="min-height: 60px; height: 60px; max-height: 90px; width: 60vw;"
+                       class="form-control h-75" id="AnswerText" asp-for="AnswerText">
+                </div>
+                <input type="hidden" asp-for="QuestionId" id="QuestionId" />
+
+                <input type="hidden" id="AnswerId" asp-for="AnswerId" />
+                <button type="submit" class="btn btn-primary">
+                    Edit
+                </button>
+            </form>
+        }
+
+    </div>
+</div>
+</div>
